@@ -1,0 +1,6 @@
+C:\Users\georg\Documents\C++-Visual\seedSeekers\seedSeekers\x64\Release\seedSeekers.vcxproj.AssemblyReference.cache
+C:\Users\georg\Documents\C++-Visual\seedSeekers\seedSeekers\x64\Release\seedSeekers.vcxproj.SuggestedBindingRedirects.cache
+C:\Users\georg\Documents\C++-Visual\seedSeekers\seedSeekers\x64\Release\seedSeekers.Init.resources
+C:\Users\georg\Documents\C++-Visual\seedSeekers\seedSeekers\x64\Release\seedSeekers.MenuGame.resources
+C:\Users\georg\Documents\C++-Visual\seedSeekers\seedSeekers\x64\Release\seedSeekers.vcxproj.GenerateResource.cache
+C:\Users\georg\Documents\C++-Visual\seedSeekers\seedSeekers\x64\Release\seedSeekers.Board.resources

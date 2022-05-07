@@ -1,0 +1,4 @@
+C:\Users\georg\Documents\C++-Visual\seedSeekers\seedSeekers\x64\Debug\seedSeekers.vcxproj.AssemblyReference.cache
+C:\Users\georg\Documents\C++-Visual\seedSeekers\seedSeekers\x64\Debug\seedSeekers.vcxproj.SuggestedBindingRedirects.cache
+C:\Users\georg\Documents\C++-Visual\seedSeekers\seedSeekers\x64\Debug\seedSeekers.Init.resources
+C:\Users\georg\Documents\C++-Visual\seedSeekers\seedSeekers\x64\Debug\seedSeekers.vcxproj.GenerateResource.cache
